@@ -1,0 +1,12 @@
+{
+  "name": "expressjs-edu",
+  "version": "1.0.0",
+  "description": "Tugas Express JS Eduwork",
+  "main": "server.js",
+  "repository": "https://github.com/sidik181/expressjs-edu.git",
+  "author": "Sidik Komarudiansah",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
